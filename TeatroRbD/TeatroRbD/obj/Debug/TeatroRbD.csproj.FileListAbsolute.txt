@@ -1,0 +1,11 @@
+C:\Users\rolando\source\repos\TeatroRbD\TeatroRbD\bin\Debug\TeatroRbD.exe.config
+C:\Users\rolando\source\repos\TeatroRbD\TeatroRbD\bin\Debug\TeatroRbD.exe
+C:\Users\rolando\source\repos\TeatroRbD\TeatroRbD\bin\Debug\TeatroRbD.pdb
+C:\Users\rolando\source\repos\TeatroRbD\TeatroRbD\obj\Debug\TeatroRbD.csproj.AssemblyReference.cache
+C:\Users\rolando\source\repos\TeatroRbD\TeatroRbD\obj\Debug\TeatroRbD.Form1.resources
+C:\Users\rolando\source\repos\TeatroRbD\TeatroRbD\obj\Debug\TeatroRbD.Properties.Resources.resources
+C:\Users\rolando\source\repos\TeatroRbD\TeatroRbD\obj\Debug\TeatroRbD.View.Usuario.resources
+C:\Users\rolando\source\repos\TeatroRbD\TeatroRbD\obj\Debug\TeatroRbD.csproj.GenerateResource.cache
+C:\Users\rolando\source\repos\TeatroRbD\TeatroRbD\obj\Debug\TeatroRbD.csproj.CoreCompileInputs.cache
+C:\Users\rolando\source\repos\TeatroRbD\TeatroRbD\obj\Debug\TeatroRbD.exe
+C:\Users\rolando\source\repos\TeatroRbD\TeatroRbD\obj\Debug\TeatroRbD.pdb
